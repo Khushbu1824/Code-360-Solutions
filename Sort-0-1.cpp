@@ -24,7 +24,7 @@ void sortZeroesAndOne(int arr[], int size)
 }
 
 //By two-pointer approach
-void sortZeroesAndOne(int input[], int size)
+void sortZeroesAndOne2(int input[], int size)
 {
     //Write your code here
     int i = 0;
