@@ -24,7 +24,7 @@ int findUnique(int *arr, int size)
 }
 
 //Using Bit manipulation
-int findUnique(int *arr, int size)
+int findUnique1(int *arr, int size)
 {
     //Write your code here
     int ans = 0;
