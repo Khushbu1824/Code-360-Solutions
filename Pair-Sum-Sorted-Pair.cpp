@@ -35,7 +35,7 @@ vector<vector<int>> pairSum(vector<int> &arr, int s){
 //Solution 2
 #include <bits/stdc++.h>
 
-vector<vector<int>> pairSum(vector<int> &arr, int s)
+vector<vector<int>> pairSum1(vector<int> &arr, int s)
 {
    vector<vector<int>> ans;
    int n = arr.size();
